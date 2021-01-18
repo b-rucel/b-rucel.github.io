@@ -114,15 +114,15 @@
       "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
     },
     {
-      "symbol": "V2x",
+      "symbol": "V2X",
       "address": "TC11sMd9xQ3B2qdbwbYfAauhdiWhSJNuSi",
       "chainId": 1,
       "decimals": 18,
-      "name": "V2x",
+      "name": "V2X",
       "logoURI": "https://coin.top/production/upload/logo/TC11sMd9xQ3B2qdbwbYfAauhdiWhSJNuSi.png"
     },
     {
-      "symbol": "T2x",
+      "symbol": "T2X",
       "address": "THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP",
       "chainId": 1,
       "decimals": 18,
