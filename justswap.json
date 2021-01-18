@@ -114,12 +114,20 @@
       "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
     },
     {
-      "symbol": "T2X",
-      "address": "THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP",
+      "symbol": "HT",
+      "address": "TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
       "chainId": 1,
       "decimals": 18,
       "name": "HuobiToken",
-      "logoURI": "https://coin.top/production/logo/THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP.png"
+      "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+    },
+    {
+      "symbol": "V2X",
+      "address": "TC11sMd9xQ3B2qdbwbYfAauhdiWhSJNuSi",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "T2X",
+      "logoURI": "https://coin.top/production/upload/logo/TC11sMd9xQ3B2qdbwbYfAauhdiWhSJNuSi.png"
     }
   ],
   "logoURI": "https://justswap.io/favicon.ico",
