@@ -122,6 +122,14 @@
       "logoURI": "https://coin.top/production/upload/logo/TC11sMd9xQ3B2qdbwbYfAauhdiWhSJNuSi.png"
     },
     {
+      "symbol": "TEWKEN",
+      "address": "TBhxyECmAg3uCqqmEHQvGJbrgj9cn1yMZ1",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Tewkenaire",
+      "logoURI": "https://coin.top/production/upload/logo/TBhxyECmAg3uCqqmEHQvGJbrgj9cn1yMZ1.png"
+    },
+    {
       "symbol": "T2X",
       "address": "THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP",
       "chainId": 1,
