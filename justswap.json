@@ -138,6 +138,14 @@
       "logoURI": "https://coin.top/production/upload/logo/1003685.png"
     },
     {
+      "symbol": "SAN",
+      "address": "TCMgrfpeHr49iGUBf9S22QAcFoynfqumhL",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Salmon",
+      "logoURI": "https://coin.top/production/upload/logo/TCMgrfpeHr49iGUBf9S22QAcFoynfqumhL.png"
+    },
+    {
       "symbol": "T2X",
       "address": "THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP",
       "chainId": 1,
