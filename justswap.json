@@ -130,22 +130,6 @@
       "logoURI": "https://coin.top/production/upload/logo/TBhxyECmAg3uCqqmEHQvGJbrgj9cn1yMZ1.png"
     },
     {
-      "symbol": "KIO",
-      "address": "TK2LZX7wSmXgN8AHUHwGzehfd5uqozbsh4",
-      "chainId": 1,
-      "decimals": 18,
-      "name": "HostKIO",
-      "logoURI": "https://coin.top/production/upload/logo/1003685.png"
-    },
-    {
-      "symbol": "SAN",
-      "address": "TCMgrfpeHr49iGUBf9S22QAcFoynfqumhL",
-      "chainId": 1,
-      "decimals": 18,
-      "name": "Salmon",
-      "logoURI": "https://coin.top/production/upload/logo/TCMgrfpeHr49iGUBf9S22QAcFoynfqumhL.png"
-    },
-    {
       "symbol": "T2X",
       "address": "THsSSczBw9RRMJWYL5j2MtcgaPasL2xPGP",
       "chainId": 1,
